@@ -1,0 +1,59 @@
+body{
+margin: 100px;
+text-align: center;
+box-align: center;
+}
+.textbox{
+width: 250px;
+margin: 8px 0;
+padding: 7px 10px;
+display: inline-block;
+border:1px solid #ccc;
+box-sizing: border-box;
+color: black;
+}
+.flname{
+width:125px;
+margin: 8px 0;
+padding: 7px 10px;
+display: inline-block;
+border:1px solid #ccc;
+box-sizing: border-box;
+color: black;
+}
+
+.aform{
+	width: 400px;
+	height:auto;
+	border: 1px solid black;
+}
+
+input[type=date]
+{
+	height: 36px;
+}
+
+button{
+background-color:#b3b3b3;
+width: 100px;
+padding:9px 5px;
+margin:5px 0;
+cursor:pointer;
+border:none;
+color:#ffffff;
+margin-left: 80px;
+float:center;
+}
+
+button:hover{
+	opacity:0.3;
+}
+
+.field_name{
+font-family:'Lato', sans-serif;
+color: black;
+float:left;
+}
+
+
+
